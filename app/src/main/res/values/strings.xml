@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Store</string>
+    <string name="my_string_value">Don\'t have an account? Create new one</string>
+
+    <!-- to enable open and close the navigationDrawer -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+</resources>
